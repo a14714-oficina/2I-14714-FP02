@@ -20,6 +20,7 @@ O site apresenta várias secções que representam a empresa e os seus serviços
 ## 📁 Estrutura do Projeto
 
 Space Mobile/
+/project-root
 │── index.html # Página inicial
 │── servicos.html # Página de serviços
 │── sobre.html # Página sobre a empresa
