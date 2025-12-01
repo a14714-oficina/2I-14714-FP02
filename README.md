@@ -1,80 +1,58 @@
-# 2I-14714-FP02
+# 📱 Space Mobile – Reparo de Telemóveis
 
-# Space Mobile - Reparo de Telemóveis
+Este repositório contém o website institucional da **Space Mobile**, uma empresa especializada em reparações de telemóveis.  
+O projeto foi criado para praticar **HTML5** e **CSS3**, com foco em design responsivo e navegação intuitiva.
 
-## Descrição
-**Space Mobile** é um website promocional para uma empresa especializada em reparações de telemóveis. O site apresenta informações sobre a empresa, os serviços oferecidos e formas de contacto, com um design moderno, responsivo e focado na experiência do utilizador.
+## 🌐 Sobre o Projeto
+O site apresenta várias secções que representam a empresa e os seus serviços:
 
-O projeto foi desenvolvido apenas com **HTML** e **CSS**, garantindo um site leve, rápido e acessível em diferentes dispositivos.
+- Página Inicial – apresentação da Space Mobile e serviços em destaque  
+- Serviços – detalhamento dos serviços oferecidos (troca de ecrã, substituição de bateria, manutenção geral)  
+- Sobre – informações sobre a empresa, missão e valores  
+- Contactos – morada, mapa, email, telefone e redes sociais  
 
----
+## 🛠️ Tecnologias Utilizadas
+- HTML5  
+- CSS3  
+- Google Fonts (*Poppins*)  
+- Font Awesome (ícones)  
 
-## Estrutura do Website
+## 📁 Estrutura do Projeto
 
-### Página Inicial (`index.html`)
-- **Seção Hero:** Destaca a empresa e os serviços principais, com um call-to-action para contacto.
-- **Serviços resumidos:** Apresenta rapidamente os serviços oferecidos com imagens e descrições.
-- **Menu de navegação:** Links para as outras páginas do site (Serviços, Sobre, Contactos).
-- **Design responsivo:** Layout ajustável para diferentes tamanhos de ecrã.
+Space Mobile/
+│── index.html # Página inicial
+│── servicos.html # Página de serviços
+│── sobre.html # Página sobre a empresa
+│── contactos.html # Página de contactos
+│── README.md # Este ficheiro
 
-### Serviços (`servicos.html`)
-- Lista detalhada de serviços oferecidos:
-  - **Troca de Ecrã:** Substituição de ecrãs partidos ou danificados.
-  - **Substituição de Bateria:** Troca rápida e segura de baterias.
-  - **Manutenção Geral:** Diagnóstico, limpeza e atualização de software.
-- Layout em grid responsivo que se adapta para 1, 2 ou 3 colunas dependendo do tamanho do ecrã.
-
-### Sobre (`sobre.html`)
-- Apresenta a história, missão e valores da **Space Mobile**.
-- Destaca a confiança, qualidade e atendimento ao cliente.
-- Imagem ilustrativa da reparação de telemóveis.
-
-### Contactos (`contactos.html`)
-- **Morada:** Caixa com endereço e mapa interativo do Google Maps.
-- **Informações de contacto:**
-  - Email
-  - Telefone
-  - Instagram
-- Layout limpo e organizado, com elementos destacados e fáceis de visualizar.
-
----
-
-## Funcionalidades Comuns
-- **Navegação fixa no topo:** Facilita o acesso às diferentes páginas.
-- **Design moderno:** Fundo escuro, destaques em azul (#2e5cff) e tipografia *Poppins*.
-- **Efeitos visuais:** Transições em botões e imagens para melhor experiência do utilizador.
-- **Responsividade:** Compatível com dispositivos móveis, tablets e desktops.
-- **Uso de Google Fonts e Font Awesome:** Tipografia elegante e ícones para contacto.
-
----
-
-## Estrutura de Ficheiros
-/project-root
-│
-├── index.html # Página inicial
-├── servicos.html # Página de serviços
-├── sobre.html # Página sobre a empresa
-├── contactos.html # Página de contactos
-└── README.md # Este ficheiro
-
-yaml
+markdown
 Copiar código
 
----
+## 📸 Funcionalidades
+- Layout moderno com fundo escuro e destaques em azul  
+- Navegação fixa e intuitiva entre páginas  
+- Grid responsivo para serviços  
+- Efeitos de hover em imagens e botões  
+- Informações de contacto com mapa integrado e ícones  
 
-## Tecnologias Utilizadas
-- **HTML5**
-- **CSS3**
-  - Flexbox e Grid para layout responsivo
-  - Efeitos de hover em imagens e botões
-- **Google Fonts:** Fonte *Poppins*
-- **Font Awesome:** Ícones para contactos
+## 🚀 Como Executar
+1. Clonar o repositório:
+   ```bash
+   git clone https://github.com/teu-utilizador/space-mobile.git
+Abrir a pasta no Visual Studio Code (ou outro editor de código).
 
----
+Abrir o ficheiro index.html no navegador.
 
-## Como Usar
-1. Clonar ou descarregar o repositório.
-2. Abrir qualquer página `.html` no navegador.
-3. Navegar pelo site usando o menu superior.
-4. As imagens são carregadas diretamente de URLs externas.
+🎯 Objetivo do Projeto
+Este site foi desenvolvido com fins educativos, para praticar:
 
+Estruturação HTML
+
+Estilização com CSS
+
+Design responsivo
+
+Organização de projeto
+
+Trabalho em ambiente VS Code
