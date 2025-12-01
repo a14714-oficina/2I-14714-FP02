@@ -27,8 +27,7 @@ O site apresenta várias secções que representam a empresa e os seus serviços
 ├── contactos.html # Página de contactos
 └── README.md # Este ficheiro
 
-markdown
-Copiar código
+
 
 ## 📸 Funcionalidades
 - Layout moderno com fundo escuro e destaques em azul  
