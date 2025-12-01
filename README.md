@@ -20,11 +20,12 @@ O site apresenta várias secções que representam a empresa e os seus serviços
 ## 📁 Estrutura do Projeto
 
 /project-root
-│── index.html # Página inicial
-│── servicos.html # Página de serviços
-│── sobre.html # Página sobre a empresa
-│── contactos.html # Página de contactos
-│── README.md # Este ficheiro
+│
+├── index.html # Página inicial
+├── servicos.html # Página de serviços
+├── sobre.html # Página sobre a empresa
+├── contactos.html # Página de contactos
+└── README.md # Este ficheiro
 
 markdown
 Copiar código
